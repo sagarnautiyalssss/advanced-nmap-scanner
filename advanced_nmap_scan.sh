@@ -6,8 +6,8 @@
 # Purpose: Scanning, OS Detection, Enumeration, HTML Report
 # ============================================
 
-clear
 echo "============================================"
+echo "           Created By Nautiyal G "
 echo "        ADVANCED NMAP SCANNER TOOL"
 echo "============================================"
 
